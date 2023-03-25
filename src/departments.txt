@@ -1,0 +1,13 @@
+Lang 	/ Languages.txt
+Geog 	/ Geography.txt
+Hist 	/ History.txt 
+Media 	/ Media.txt
+Acc 	/ Accounting.txt
+Econ 	/ Economics.txt
+Biol 	/ Biology.txt 
+Chem 	/ Chemistry.txt
+Phys 	/ Physics.txt 
+Law 	/ Law.txt
+Nurs 	/ Nursing.txt
+CS 	/ Computer_Science.txt
+Elec 	/ Electrical.txt
